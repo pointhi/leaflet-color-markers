@@ -3,8 +3,6 @@ leaflet-color-markers
 
 color variations of the standard leaflet markers:
 
-https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-black.png
-
 | Color | Marker 2x  | Marker  |
 | ------------- |:-------------:|:-----:|
 | Blue | ![Marker Red 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png) | ![Marker Red](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) |
