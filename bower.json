@@ -1,0 +1,13 @@
+{
+  "name": "leaflet-color-markers",
+  "homepage": "https://github.com/pointhi/leaflet-color-markers",
+  "authors": [
+    "Thomas Pointhuber <thomas.pointhuber@gmx.at>"
+  ],
+  "description": "color variations of the standard leaflet marker",
+  "main": "js/leaflet-color-markers.js",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "leaflet": ">=0.7.0"
+  }
+}
