@@ -5,14 +5,15 @@ color variations of the standard leaflet markers:
 
 | Color | Marker 2x  | Marker  |
 | ------------- |:-------------:|:-----:|
-| Blue | ![Marker Red 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png) | ![Marker Red](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) |
+| Blue | ![Marker Blue 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png) | ![Marker Blue](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png) |
+| Gold | ![Marker Gold 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-gold.png) | ![Marker Gold](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-gold.png) |
 | Red | ![Marker Red 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png) | ![Marker Red](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png) |
 | Green | ![Marker Green 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png) | ![Marker Green](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png) |
 | Orange | ![Marker Orange 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png) | ![Marker Orange](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-orange.png) |
-| Yellow | ![Marker Grey 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-yellow.png) | ![Marker Grey](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-yellow.png) |
-| Violet | ![Marker Grey 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png) | ![Marker Grey](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-violet.png) |
+| Yellow | ![Marker Yellow 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-yellow.png) | ![Marker Yellow](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-yellow.png) |
+| Violet | ![Marker Violet 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png) | ![Marker Violet](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-violet.png) |
 | Grey | ![Marker Grey 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-grey.png) | ![Marker Grey](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-grey.png) |
-| Black | ![Marker Grey 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-black.png) | ![Marker Grey](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-black.png) |
+| Black | ![Marker Black 2x](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-black.png) | ![Marker Black](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-black.png) |
 
 ### Usage
 ```javascript
